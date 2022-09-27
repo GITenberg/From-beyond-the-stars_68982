@@ -1,11 +1,16 @@
 _repo: From-beyond-the-stars_68982
 _version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 68982-h/images/cover.jpg
 creator:
   author:
     agent_name: Jenkins, Will F.
     gutenberg_agent_id: '55041'
     url: http://www.gutenberg.org/2009/agents/55041
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/68982#From-beyond-the-stars
 gutenberg_issued: '2022-09-13'
 identifiers:
   gutenberg: '68982'
